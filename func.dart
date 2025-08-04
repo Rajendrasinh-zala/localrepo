@@ -7,5 +7,9 @@ int addTwoNumbers(int a, int b){
 
 int result = addTwoNumbers(10, 20);
 print("result is ready$result");
+
 print("hiii your result is ready right now");
+
+print("hiii your result is ready ho gaya hai");
+
 }
