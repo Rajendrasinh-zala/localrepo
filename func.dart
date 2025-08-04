@@ -6,6 +6,5 @@ int addTwoNumbers(int a, int b){
 }
 
 int result = addTwoNumbers(10, 20);
-print("sum of given two number is $result");
-
+print("result is ready$result");
 }
